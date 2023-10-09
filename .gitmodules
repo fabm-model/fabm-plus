@@ -1,0 +1,9 @@
+[submodule "extern/pisces"]
+	path = extern/pisces
+	url = ../../BoldingBruggeman/fabm-pisces.git
+[submodule "extern/mops"]
+	path = extern/mops
+	url = ../../BoldingBruggeman/fabm-mops.git
+[submodule "extern/ersem"]
+	path = extern/ersem
+	url = ../../pmlmodelling/ersem
