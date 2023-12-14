@@ -7,3 +7,6 @@
 [submodule "extern/ersem"]
 	path = extern/ersem
 	url = ../../pmlmodelling/ersem
+[submodule "extern/ihamocc"]
+	path = extern/ihamocc
+	url = ../../BoldingBruggeman/fabm-ihamocc.git
