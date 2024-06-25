@@ -10,3 +10,6 @@
 [submodule "extern/ihamocc"]
 	path = extern/ihamocc
 	url = ../../BoldingBruggeman/fabm-ihamocc.git
+[submodule "extern/ogs"]
+	path = extern/ogs
+	url = ../../inogs/bfmforfabm.git
