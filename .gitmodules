@@ -1,6 +1,7 @@
 [submodule "extern/pisces"]
 	path = extern/pisces
 	url = ../../MoBelharet/fabm-pisces-4.2.git
+	branch = develop
 [submodule "extern/mops"]
 	path = extern/mops
 	url = ../../BoldingBruggeman/fabm-mops.git
