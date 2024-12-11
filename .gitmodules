@@ -13,3 +13,6 @@
 [submodule "extern/ogs"]
 	path = extern/ogs
 	url = ../../inogs/bfmforfabm.git
+[submodule "extern/nersc"]
+	path = extern/nersc
+	url = ../../nansencenter/nersc.git
