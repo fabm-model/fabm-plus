@@ -16,3 +16,6 @@
 [submodule "extern/nersc"]
 	path = extern/nersc
 	url = ../../nansencenter/nersc.git
+[submodule "extern/selmaprotbas"]
+	path = extern/selmaprotbas
+	url = ../../jorritmesman/selmaprotbas
